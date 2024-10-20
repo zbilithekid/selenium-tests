@@ -1,1 +1,1 @@
-# selenium-tests
+pip install openai
